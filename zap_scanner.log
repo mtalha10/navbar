@@ -1,0 +1,41 @@
+2024-12-17 21:33:59,011 - INFO - ZAP initialized successfully.
+2024-12-17 21:34:01,094 - INFO - Target URL https://example.com opened.
+2024-12-17 21:34:01,132 - INFO - Scan started for URL https://example.com with ID 0.
+2024-12-17 21:34:05,182 - INFO - Scan completed for URL https://example.com.
+2024-12-17 21:34:05,296 - INFO - Fetched 23 alerts for https://example.com.
+2024-12-17 21:36:56,291 - INFO - ZAP initialized successfully.
+2024-12-17 21:36:56,703 - INFO - Target URL https://example.com opened successfully.
+2024-12-17 21:36:56,716 - INFO - Scan started for URL https://example.com with ID 1.
+2024-12-17 21:36:58,868 - INFO - Fetched 23 alerts.
+2024-12-17 21:37:06,272 - INFO - ZAP initialized successfully.
+2024-12-17 21:37:06,697 - INFO - Target URL https://example.com opened successfully.
+2024-12-17 21:37:06,704 - INFO - Scan started for URL https://example.com with ID 2.
+2024-12-17 21:37:08,821 - INFO - Fetched 26 alerts.
+2024-12-17 21:39:17,582 - INFO - ZAP initialized successfully.
+2024-12-17 21:39:18,004 - INFO - Target URL https://example.com opened successfully.
+2024-12-17 21:39:18,014 - INFO - Scan started for URL https://example.com with ID 3.
+2024-12-17 21:39:24,433 - INFO - ZAP initialized successfully.
+2024-12-17 21:39:24,864 - INFO - Target URL https://example.com opened successfully.
+2024-12-17 21:39:24,872 - INFO - Scan started for URL https://example.com with ID 4.
+2024-12-17 21:39:27,022 - INFO - Fetched 31 alerts.
+2024-12-17 21:45:47,420 - INFO - Target URL https://example.com opened.
+2024-12-17 21:45:47,432 - INFO - Spider started for https://example.com with ID 5.
+2024-12-17 21:45:49,455 - INFO - Spidering completed for URL https://example.com.
+2024-12-17 21:45:49,458 - ERROR - Error during scan: ascan.scan() got an unexpected keyword argument 'contextname'
+2024-12-17 21:54:22,421 - INFO - ZAP initialized successfully.
+2024-12-17 21:54:23,179 - INFO - Target URL https://example.com opened.
+2024-12-17 21:54:23,187 - INFO - Scan started for URL https://example.com with ID 6.
+2024-12-17 21:54:25,212 - INFO - Scan completed for URL https://example.com.
+2024-12-17 21:54:25,335 - INFO - Fetched 39 alerts for https://example.com.
+2024-12-17 22:17:04,896 - ERROR - Scan Error: spider.scan() got an unexpected keyword argument 'maxChildren'. Did you mean 'maxchildren'?
+2024-12-17 22:24:32,005 - ERROR - Scan Error: spider.scan() got an unexpected keyword argument 'maxChildren'. Did you mean 'maxchildren'?
+2024-12-17 23:58:06,954 - ERROR - Scan Error: type object 'Config' has no attribute 'ZAP_API_KEY'
+2024-12-17 23:58:08,338 - ERROR - Scan Error: type object 'Config' has no attribute 'ZAP_API_KEY'
+2024-12-18 10:47:31,631 - root - ERROR - Scan Error: type object 'Config' has no attribute 'ZAP_PROXY'
+2024-12-18 11:31:13,719 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 11:31:15,139 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 11:31:57,351 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 11:31:59,205 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 12:00:07,229 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 12:02:21,265 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
+2024-12-18 12:07:25,716 - root - ERROR - Scan Error: type object 'ScannerConfig' has no attribute 'ZAP_API_KEY'
